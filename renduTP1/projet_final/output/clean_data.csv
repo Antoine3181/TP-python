@@ -1,0 +1,37 @@
+id_client,nom,prenom,age,date_inscription,montant_total_eur,actif,derniere_connexion,newsletter_ok
+1,Dupont,Alice,29.0,2023-01-15,1234.5,oui,2024-11-03 08:15,TRUE
+2,Martin,Paul,,15/02/2022,99.9,non,2024-10-01 21:03,False
+3,Durand,Sophie,35.0,2022/07/01,,1, ,TRUE
+4,Nguyen,Minh,,2021-12-05,1234.5,0,2023-06-10 09:00,NA
+5,Moreau,Luc,42.0,05-03-2020,0.0,oui,2024-01-01 00:00,true
+6,Garcia,Elena,,2020-11-30,2500.0,OUI, ,false
+7,Bernard,Hugo,27.0,2023-09-10,75.5,non,2023-09-11 18:30, 
+8,Rossi,Chiara,31.0,2022-04-01,,1,2024-05-20 12:00,TRUE
+9,Lefevre,Emma,0.0,2019-01-20,12.0,0,,FALSE
+10,Petit,Thomas,33.0,2023-03-15,8765.43,oui,2025-01-01 10:10,True
+11,Petit,Thomas,33.0,2023-03-15,8765.43,oui,2025-01-01 10:10,True
+12,O'Neil,Sean,28.0,2024-02-29,,yes,2024-12-01T12:34,TRUE
+13,   ,   ,, ,, , ,
+14,Müller,Anna,,01-02-2023,,non,2023/02/01 08:00,false
+15,Smith,John,-5.0,2023-13-01,12.34,,2024-07-07 07:07,TRUE
+16,Lopez,Carlos,105.0,2020/2/3,1000.0,oui, ,TRUE
+17,Kowalski,Ewa,,2018-05-05,,0,2019-05-05 05:05,FALSE
+18,Chen,Wei,29.0,2021-11-30,inf,1,2021-12-01 00:00,TRUE
+19,Ivanov,Sergey,44.0,2020-01-01,0.0,NON,2020-01-02 10:00,true
+20, ,Marie,, ,,oui, ,False
+21,D'Amico,Luigi,33.0,2022-02-28,12345.67,1,2022-03-01 09:09, 
+23,Dupont,Alice,,2023-01-15,1234.5,oui,2024-11-03 08:15,TRUE
+24,Ndiaye,Awa,27.0,2021-06-15,75.0,oui,2021-06-16 10:10,true
+25,Hernández,José,,2019/07/01,,non, ,FALSE
+26,Lefevre,Emma,0.0,2019-01-20,12.0,0,,FALSE
+29,   ,Jean,,2022-05-05,0.0,1,2022-05-06 06:06,FALSE
+30,Öztürk,Ahmet,999.0,2020-10-10,9999999.99,oui,2020-10-11 11:11,TRUE
+31,Sato,Yuki,,2021-01-01,, , ,
+32,Smith,John,35.0,2023-01-01,12.34,oui,2023-01-02 02:02,TRUE
+33,Smith,John,35.0,2023-01-01,12.34,oui,2023-01-02 02:02,TRUE
+34,Dupont,Alice,29.0,2023-01-15,1234.5,oui,2024-11-03 08:15,TRUE
+35,García,Eléna,,2022-02-02,100.0,oui,2022-02-03 03:03,TRUE
+36,   ,   ,,   ,,   ,   ,   
+37,Zhang,Li,30.0,2021-06-01,500.0,non,2021-06-02 12:00,FALSE
+39,Doe,Jane,,2020-02-30,,oui,2020-03-01 01:01,T R U E
+40,Petit,Thomas,33.0,2023-03-15,8765.43,oui,2025-01-01 10:10,True
